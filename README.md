@@ -65,4 +65,4 @@ I plan to reference these figures in a short report-style notebook and in future
 
 - Add more descriptors and try other models (e.g. XGBoost or simple neural networks).
 - Compare random vs scaffold splits to be closer to MoleculeNet benchmark practice.
-- Et to the Lipophilicity dataset for logD prediction. [web:8][web:11]
+- Et to the Lipophilicity dataset for logD prediction.
